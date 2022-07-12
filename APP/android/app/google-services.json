@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "852677737393",
+    "project_id": "appmedical-44b5f",
+    "storage_bucket": "appmedical-44b5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852677737393:android:8bbc5c2bf37477bd229b90",
+        "android_client_info": {
+          "package_name": "com.example.app_med"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852677737393-fjkt2dqnndn6844k9frb8c0ah4ap76bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_med",
+            "certificate_hash": "287c4a441c208f031093f38d662bd7ad9d7a2b0b"
+          }
+        },
+        {
+          "client_id": "852677737393-gftkdh19ebl7ddve1qhqjitlgerr3ses.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCncYNMFdErW2ueNhjQU7jIh6ykZxC2D9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852677737393-gftkdh19ebl7ddve1qhqjitlgerr3ses.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
